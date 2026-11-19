@@ -1,0 +1,6 @@
+stage_no,stage,leads,pct_of_leads,step_conversion_pct,dropped_at_step
+1,Lead captured,9240,100.0,,
+2,Engaged (site / form),7983,86.4,86.4,1257.0
+3,Counsellor connected,6299,68.2,78.9,1684.0
+4,Application started,4351,47.1,69.1,1948.0
+5,Enrolled,3561,38.5,81.8,790.0

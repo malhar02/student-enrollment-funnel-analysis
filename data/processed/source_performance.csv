@@ -1,0 +1,10 @@
+lead_source,leads,share_of_leads_pct,counselled_pct,applied_pct,enrolled,lead_to_enrol_pct,share_of_enrolments_pct,avg_time_on_site_min
+Google,2873,31.1,80.9,51.7,1147,39.9,32.2,10.9
+Direct Traffic,2543,27.5,70.7,43.5,818,32.2,23.0,10.1
+Olark Chat,1755,19.0,29.6,26.6,448,25.5,12.6,1.0
+Organic Search,1154,12.5,71.8,48.5,436,37.8,12.2,10.5
+Reference,534,5.8,95.9,92.3,490,91.8,13.8,4.2
+Welingak Website,142,1.5,100.0,99.3,140,98.6,3.9,2.4
+Referral Sites,125,1.4,85.6,37.6,31,24.8,0.9,9.0
+Other,78,0.8,46.2,29.5,22,28.2,0.6,5.1
+Unknown,36,0.4,80.6,80.6,29,80.6,0.8,2.6
