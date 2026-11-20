@@ -1,6 +1,6 @@
 # Student Enrollment Funnel, Cohort & A/B Test Analysis
 
-**SQL · Python (Pandas) · Looker Studio · A/B testing**
+**SQL · Python (Pandas) · Data Studio (formerly Looker Studio) · A/B testing**
 
 An online-education company gets thousands of leads but fewer than 4 in 10 enrol. This project answers three questions the admissions, counselling and growth teams would ask:
 
@@ -8,7 +8,7 @@ An online-education company gets thousands of leads but fewer than 4 in 10 enrol
 2. **Which channels bring students who actually enrol, not just leads?**
 3. **Did a WhatsApp reminder before the counselling call improve connection rates?**
 
-📊 **Live dashboard:** _Looker Studio link - coming soon_
+📊 **Live dashboard (Data Studio):** https://datastudio.google.com/reporting/bd07575a-f121-4cb7-b4ca-96449e6e0c03
 📓 **Full analysis:** [`notebooks/analysis.ipynb`](notebooks/analysis.ipynb)
 
 ---
@@ -58,7 +58,7 @@ data/raw/Leads.csv
 SQLite: crm_leads · web_activity · counselling_log
    │  src/run_sql.py        -> runs sql/01..06
    ▼
-data/processed/*.csv        -> Looker Studio data sources
+data/processed/*.csv        -> Data Studio dashboard (via Google Sheets IMPORTDATA)
    │  notebooks/analysis.ipynb
    ▼
 cohort tables · A/B test · charts · recommendations
